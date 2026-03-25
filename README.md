@@ -1,2 +1,18 @@
-# ai-health-learning-game
-Unity3D health learning education game featuring AI-driven characters
+# AI Health Learning Game (Unity3D)
+
+**Biomedical Engineering | University of Sydney | 2024**
+
+## Overview
+A Unity3D health education game featuring AI-driven characters to deliver interactive anatomical learning, designed and built end-to-end including game logic, character behaviour, and educational content flow.
+
+## Technical Approach
+- AI-driven character behaviour and interaction design
+- Interactive anatomical learning modules
+- Game logic and educational content flow designed end-to-end
+- Built and deployed as a standalone Unity3D application
+
+## Repository Contents
+- `unity-project/` - Full Unity3D project folder
+
+## Tools & Technologies
+`Unity3D` `C#` `AI` `Game Development` `Health Education`
