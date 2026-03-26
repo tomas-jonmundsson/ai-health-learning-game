@@ -12,7 +12,7 @@ A Unity3D health education game featuring AI-driven characters to deliver intera
 - Built and deployed as a standalone Unity3D application
 
 ## Repository Contents
-- `unity-project/` - Full Unity3D project folder
+- [`unity-project/`](https://drive.google.com/file/d/1cs0DAkSCErLQWBlpprsUwCjra40oO3GE/view?usp=drive_link) - Full Unity3D project build
 
 ## Tools & Technologies
 `Unity3D` `C#` `AI` `Game Development` `Health Education`
